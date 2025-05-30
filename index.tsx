@@ -21,9 +21,9 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "your-api-key",
-  authDomain: "your-auth-domain",
-  projectId: "your-project-id",
+  apiKey: "AIzaSyAURGBocEX2wPKgTVRs-0MknowA0h1TLXc",
+  authDomain: "occ-worker-weekly-schedule.firebaseapp.com",
+  projectId: "occ-worker-weekly-schedule",
 };
 
 const app = initializeApp(firebaseConfig);
